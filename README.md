@@ -47,6 +47,8 @@ plt.show()
 ```
 
 <img width="694" height="394" alt="image" src="https://github.com/user-attachments/assets/e5f8a4b6-a6f7-4239-8012-c0e5a0856186" />
+
+
 ```
 # Histogram
 plt.figure(figsize=(6,4))
@@ -56,7 +58,9 @@ plt.xlabel("Petal Length")
 plt.ylabel("Frequency")
 plt.show()
 ```
+
 <img width="605" height="392" alt="image" src="https://github.com/user-attachments/assets/c240144f-03fd-425e-95f6-8df67f4ff5ab" />
+
 
 ```
 
@@ -70,8 +74,14 @@ plt.title("Scatter Plot")
 plt.xlabel("Sepal Length")
 plt.ylabel("Petal Length")
 plt.show()
+
+
 ```
+
+
 <img width="543" height="393" alt="image" src="https://github.com/user-attachments/assets/da974ac1-af4d-4fb2-a7da-802dd9d5713b" />
+
+
 ```
 
 # Bar Plot
@@ -80,8 +90,14 @@ df.mean().plot(kind="bar")
 plt.title("Average Feature Values")
 plt.ylabel("Value")
 plt.show()
+
+
 ```
+
+
 <img width="573" height="483" alt="image" src="https://github.com/user-attachments/assets/81a4aa64-cc53-47b9-b334-05145b670302" />
+
+
 ```
 
 # Box Plot
